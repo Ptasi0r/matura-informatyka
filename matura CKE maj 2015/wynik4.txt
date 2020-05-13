@@ -1,0 +1,3 @@
+Zad. 4.1 W pliku znajduje siê 422 liczb które posiadaj¹ wiêcej 0 ni¿ 1 
+Zad. 4.2 W pliku znajduje siê 500 liczb podzielnych przez 2, oraz 123 liczb podzielnych przez 8
+Zad. 4.3 Najmniejsza liczba znajduje siê w lini: 859, a najwiêksza w lini: 925
