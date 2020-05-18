@@ -5,7 +5,7 @@ Repozytorium z rozwiązaniem zadań z matur z informatyki do roku 2019
 
 ### Lista arkuszy:
 
-- CKE Maj 2015 :black_square_button:
+- CKE Maj 2015  (część 1: :black_square_button: część 2: :ballot_box_with_check:)
 
 
 
