@@ -1,0 +1,24 @@
+Zad 4.1
+	Miesąc 		Suma kostka	Suma orzech	Suma miał
+	paździenik	1742		1658		915
+	listopad	2756		2884		1750
+	grudzień	2696		2749		1586
+	styczeń		2990		2870		1646
+	luty		2579		2651		1252
+	marzec		3332		3026		1360
+	kwiecień	1365		966			706
+
+Zad 4.2
+	wykres
+	
+Zad 4.3
+	25 880 280zł
+
+Zad 4.4
+	orzech	64
+	kostka	86
+	miał	29
+
+
+Zad 4.5
+	minimalne	3
