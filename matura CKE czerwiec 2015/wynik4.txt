@@ -19,6 +19,7 @@ Zad 4.4
 	kostka	86
 	miał	29
 
-
+Zad 4.6
+	18.10
 Zad 4.5
 	minimalne	3

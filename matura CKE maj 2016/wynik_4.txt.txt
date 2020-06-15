@@ -1,0 +1,9 @@
+4.1 Są dwa takie punkty: (256, 4) oraz (200, 400)
+
+4.2 Przybliżenie PI dla:
+	- 1000 liczb: 3,228
+	- 5000 liczb: 3,1656
+	- wszystkich liczb: 3,1416
+
+4.3: e1000 = 0,0864
+     e1700 = 0,0184
