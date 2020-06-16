@@ -1,0 +1,4 @@
+6.1 Najciemniejszy: 7, najjasniejszy: 221
+6.2 Lini do usuniecia: 149
+6.3 Pixeli kontrastujacych jest: 753
+6.4 Maksymalna dlugosc ciagu: 5
