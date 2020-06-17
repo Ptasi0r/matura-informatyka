@@ -10,7 +10,7 @@ Repozytorium z rozwiązaniem zadań z matur z informatyki do roku 2019
 - CKE Maj 2016  (część 1:  :ballot_box_with_check:&nbsp;&nbsp;&nbsp;część 2::ballot_box_with_check: &nbsp;&nbsp;&nbsp; Zadanie 6.3 nie działa poprawnie)
 - CKE Maj 2017  (część 1:  :ballot_box_with_check:&nbsp;&nbsp;&nbsp;część 2::ballot_box_with_check: &nbsp;&nbsp;&nbsp;)
 - CKE Maj 2018  (część 1:  :ballot_box_with_check:&nbsp;&nbsp;&nbsp;część 2::ballot_box_with_check: &nbsp;&nbsp;&nbsp;)
-- CKE Maj 2019  (część 1: :black_square_button: &nbsp;&nbsp;&nbsp;część 2: :black_square_button:&nbsp;&nbsp;&nbsp;)
+- CKE Maj 2019  (część 1: :ballot_box_with_check: &nbsp;&nbsp;&nbsp;część 2: :ballot_box_with_check:&nbsp;&nbsp;&nbsp;)
 
 ### Źródła arkuszy
 
