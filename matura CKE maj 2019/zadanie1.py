@@ -16,7 +16,7 @@ while lewy < prawy:
     print(A[srodek], lewy, prawy)
 print(A[prawy])
 
-
+str(list("abc").reverse())
 #wyszukiwanie liniowe
 index = 0
 for i in range(0, len(A)):
